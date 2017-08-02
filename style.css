@@ -1,0 +1,12 @@
+
+.jumbotron {
+    margin: 10px 10px;
+    border-radius: 6px;
+    text-align: center;
+    background-color: #273043;
+    color: #DD0426;
+    font-family: comic-sans;
+}
+nav {
+	margin: 10px 10px;
+}
