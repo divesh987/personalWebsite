@@ -41,6 +41,10 @@ footer li {
 	display: inline;
 
 }
+#cricket {
+	background-image: url("http://firestarterpeople.co.uk/wp-content/uploads/Cricket.jpg");
+	 background-size: cover;
+}
 .copyright {
 	color: grey;
 }
@@ -61,6 +65,10 @@ video {
 }
 #skydiving {
 	background-image: url("https://s-media-cache-ak0.pinimg.com/736x/59/f8/91/59f89165ee0d85ef8d46813abbd7a805--skydiving-g-dragon.jpg");
+	background-size: cover;
+}
+#coding {
+	background-image: url("http://d3i6fh83elv35t.cloudfront.net/newshour/wp-content/uploads/2015/03/coding.jpg");
 	background-size: cover;
 }
 .hobby {
