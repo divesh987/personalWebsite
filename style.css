@@ -11,12 +11,21 @@
 .panel panel-default {
 	/*border-radius: 6px;*/
 }
+label {
+	font-family: comic-sans;
+}
 nav {
 	margin: 10px 10px;
 	background-color: #F02D3A;
 }
 body {
 	background-color: #9197AE;
+}
+p{
+	font-family: comics-sans;
+}
+.caption {
+	font-family: comic-sans;
 }
 h2 {
 	color: #273043
@@ -49,4 +58,14 @@ footer li {
 video {
 	width: 100%;
 	height: auto;
+}
+#skydiving {
+	background-image: url("https://s-media-cache-ak0.pinimg.com/736x/59/f8/91/59f89165ee0d85ef8d46813abbd7a805--skydiving-g-dragon.jpg");
+	background-size: cover;
+}
+.hobby {
+	height: 600px;
+	color: white;
+	text-align: center;
+	margin: auto;
 }
