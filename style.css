@@ -46,3 +46,7 @@ footer li {
 
     margin: auto;
 }
+video {
+	width: 100%;
+	height: auto;
+}
