@@ -18,8 +18,6 @@ For my website, I decided to create a website based on myself which would displa
 Before developing my website, it was important to create wireframes for both **mobile** and **desktop** formats so that I am able to visualise and come up with the structure of my web application before diving into the code without knowing what to create. This is an important step of the web development process because as well as the developer benefitting from visualising the structure, it also allows the developer to present their wireframes to clients in an excellent manner. 
 
 ### Mobile: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
 ![alt text](https://raw.githubusercontent.com/divesh987/personalWebsite/master/mobileWireframe.jpg "Logo Title Text 1")
 
 ### Desktop: 
