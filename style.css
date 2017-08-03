@@ -7,10 +7,6 @@
     color: #DD0426;
     font-family: comic-sans;
 }
-.nav
-.panel panel-default {
-	/*border-radius: 6px;*/
-}
 label {
 	font-family: comic-sans;
 }
@@ -28,7 +24,7 @@ p{
 	font-family: comic-sans;
 }
 h2 {
-	color: #273043
+	color: #273043;
 }
 #me {
 	text-align: center;
