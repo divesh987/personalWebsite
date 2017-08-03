@@ -76,5 +76,3 @@ Here is the code used for the first text and form that was structured using the 
 		</div>
 	</div> ```
 
->>>>>>> ed0e974109628e082997f53865d7b5cea3a5cb8d
-
