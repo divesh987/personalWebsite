@@ -7,16 +7,13 @@
     color: #DD0426;
     font-family: comic-sans;
 }
+.nav
+.panel panel-default {
+	/*border-radius: 6px;*/
+}
 nav {
 	margin: 10px 10px;
 	background-color: #F02D3A;
-}
-nav ul  {
-
-}
-nav ul li {
-
-
 }
 body {
 	background-color: #9197AE;
@@ -41,4 +38,11 @@ footer li {
 .img-circle {
 	height: 300px;
 	width: 300px;
+}
+#lastimg {
+	text-align: center;
+}
+.bottomImage {
+
+    margin: auto;
 }
