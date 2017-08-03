@@ -18,3 +18,27 @@ nav ul li {
 
 
 }
+body {
+	background-color: #9197AE;
+}
+h2 {
+	color: #273043
+}
+#me {
+	text-align: center;
+}
+footer ul{
+	text-align: center;
+
+}
+footer li {
+	display: inline;
+
+}
+.copyright {
+	color: grey;
+}
+.img-circle {
+	height: 300px;
+	width: 300px;
+}
