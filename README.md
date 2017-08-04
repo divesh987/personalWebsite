@@ -14,7 +14,7 @@
  - [Website Choice](#website-choice) 
  - [WireFrames](#wireframes) 
      - [Mobile](#mobile)
-     - [Desktop](#dekstop)
+     - [Desktop](#desktop)
  -  [Website Creation](#website-creation)
 
 
