@@ -27,7 +27,7 @@ Before developing my website, it was important to create wireframes for both **m
 ### Mobile: 
 ![alt text](https://raw.githubusercontent.com/divesh987/personalWebsite/master/mobileWireframe.jpg "Logo Title Text 1")
 
-## Desktop: 
+### Desktop: 
 ![alt text](https://raw.githubusercontent.com/divesh987/personalWebsite/master/desktopWireframe.jpg "Logo Title Text 1")
 
 The website was developed with the wireframes in mind however upon completing the wireframe strucutre, I decided to add more content to the website which is why the finished product has more than what the wireframe shows. 
