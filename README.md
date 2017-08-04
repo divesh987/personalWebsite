@@ -32,7 +32,7 @@ Before developing my website, it was important to create wireframes for both **m
 
 The website was developed with the wireframes in mind however upon completing the wireframe strucutre, I decided to add more content to the website which is why the finished product has more than what the wireframe shows. 
 
-##Website Creation 
+## Website Creation 
 The structure of the webpage was created easily using Bootstrap components. 
 The main component used of Bootstrap is the grid system which divided the window into 12 equal sections from which the developer can decide to structure the content.
 
